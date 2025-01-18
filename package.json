@@ -1,0 +1,19 @@
+{
+  "name": "@fedoweb/ajs",
+  "version": "1.0.0",
+  "description": "Библиотека для браузера и Node.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedoweb/ajs.git"
+  },
+  "author": "fedoweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedoweb/ajs/issues"
+  },
+  "homepage": "https://github.com/fedoweb/ajs#readme"
+}
